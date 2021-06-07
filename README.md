@@ -16,6 +16,6 @@
 ![Screenshot_3](https://user-images.githubusercontent.com/56120315/120956553-bfacfa00-c78e-11eb-8209-62264ffc5f14.png)
 
 #
-<h2>한국교통대학교 소프트웨어학과(KNUT, Dept of Software) 내에서 사용됩니다.</h2>
+<h3><strong>한국교통대학교 소프트웨어학과(KNUT, Dept of Software) 내에서 사용됩니다.</strong></h3>
 <h3>제작자: 신 이종(Shin Leejong)</h3>
 <h3>약 한 달에 한 챕터씩 나옵니다.</h3>
