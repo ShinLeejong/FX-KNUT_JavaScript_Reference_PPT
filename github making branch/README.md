@@ -1,6 +1,5 @@
 # 현재
 중급 자바스크립트 4 - 프론트엔드 전문가 필수 이론
-만드는 중
 ![Screenshot_4](https://user-images.githubusercontent.com/56120315/120956685-10245780-c78f-11eb-8ba2-7b1bf8040ef5.png)
 
 # 20210519
